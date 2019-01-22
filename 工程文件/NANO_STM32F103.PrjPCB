@@ -139,6 +139,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QECFDKKR
 
+[GeneratedDocument1]
+DocumentPath=..\原理图文件\MessageListReport.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -943,7 +947,7 @@ Type6=2
 Type7=1
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -994,7 +998,7 @@ Type57=3
 Type58=3
 Type59=3
 Type60=1
-Type61=2
+Type61=1
 Type62=2
 Type63=1
 Type64=0
