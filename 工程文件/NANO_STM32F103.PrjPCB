@@ -678,6 +678,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -858,6 +863,7 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
+Type117=1
 
 [Difference Levels]
 Type1=1
@@ -925,6 +931,7 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
+Type66=1
 
 [Electrical Rules Check]
 Type1=1
@@ -958,7 +965,7 @@ Type28=1
 Type29=1
 Type30=1
 Type31=1
-Type32=2
+Type32=3
 Type33=2
 Type34=2
 Type35=1
@@ -983,9 +990,9 @@ Type53=1
 Type54=1
 Type55=1
 Type56=2
-Type57=1
-Type58=1
-Type59=2
+Type57=3
+Type58=3
+Type59=3
 Type60=1
 Type61=2
 Type62=2
