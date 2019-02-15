@@ -1,2 +1,3 @@
 # NANO_STM32F103RBT6
 正点原子NANO_STM32F103RBT6
+设计软件:Altium Designer 18
