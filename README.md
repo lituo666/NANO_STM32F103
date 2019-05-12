@@ -6,5 +6,3 @@
 效果图如下<BR>
 <img src="https://s2.ax1x.com/2019/05/12/Ehw79O.jpg" alt="Ehw79O.jpg" border="0">
 <img src="https://s2.ax1x.com/2019/05/12/EhwH3D.jpg" alt="EhwH3D.jpg" border="0">
-![Ehw79O.jpg](https://s2.ax1x.com/2019/05/12/Ehw79O.jpg)
-![EhwH3D.jpg](https://s2.ax1x.com/2019/05/12/EhwH3D.jpg)
